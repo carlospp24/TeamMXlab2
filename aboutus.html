@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TeamMX</title>
+</head>
+<body>
+    <h1>This is our website app</h1>
+    <h2>This app allows users to plan daily and feaute tasks. It works as a reminder. The user sets up a reminder for a certain day and time and an alarm will go off once that time comes.</h2>
+</body>
+</html>
