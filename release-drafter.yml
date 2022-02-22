@@ -1,2 +1,8 @@
 - name: Release Drafter
   uses: release-drafter/release-drafter@v5.18.1
+
+
+template: |
+  ## What’s Changed
+
+  $CHANGES
