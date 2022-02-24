@@ -24,7 +24,7 @@ const darktheme = {
 
     
 
-    tab2: "#000088",
+    tab2: "#000080",
 
     elemprim: "#777777",
     elemsec: "#777777",
