@@ -22,6 +22,7 @@ const darktheme = {
     background: "#212529",
     tab: "#343a40",
 
+
     tab2: "#000080",
 
     elemprim: "#777777",
