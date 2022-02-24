@@ -21,7 +21,10 @@ const darktheme = {
     accent: "#6096ba",
     background: "#212529",
     tab: "#343a40",
-    tab2: "#000088",
+
+    tab2: "#000085",
+
+
     elemprim: "#777777",
     elemsec: "#777777",
     text: "#ffffff",
